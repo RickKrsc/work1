@@ -1,0 +1,54 @@
+#start{
+    padding-top: 5vh;
+}
+
+img{
+    width: auto;
+    height: 80vh;
+}
+
+#mc{
+    padding-top: 20vh;
+    margin-left: 5vw;
+}
+
+li{
+    margin: 5px;
+}
+
+#ml{
+    text-decoration: none;
+    color: white;
+}
+
+
+i{
+    margin-left: 9vw;
+    margin-top: -2.5vh;
+}
+
+#content1{
+    margin-left: 25vw;
+    margin-top: 5vh;
+}
+
+#content2_3{
+    margin-top: 10vh;
+    margin-bottom: 30vh;
+ 
+}  
+#content2_2{
+    margin-top: 10vh;
+   
+
+}
+
+#content2_1{
+    margin-top: 10vh;
+}
+
+.foot{
+    background-color: grey;
+    padding-top: 0.2vw;
+    padding-bottom: 0.1vh;
+}
