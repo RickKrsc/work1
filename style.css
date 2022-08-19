@@ -2,16 +2,116 @@
     padding-top: 5vh;
 }
 
+body{ 
+    width:100%; overflow-x: hidden;}
 
-img{
-    width: auto;
+/***** images styling *****/
+.parent{
+    position: relative;
+    top: 0;
+    left: 0;
+}
+
+#bakmage{
+    width: 100vw;
+    height: 52vh;
+    position: absolute;
+    filter: blur(8px);
+}
+
+#introimg{
+    width: 99.1vw;
     height: 80vh;
+}
+
+#inforimg{
+    position: relative;
+    width: 50vw;
+    height: 50vh;
 }
 
 .card-img-top {
     width: auto;
     height:auto;
 }
+/***** End Section *****/
+
+
+/***** Settore informatica css *****/
+
+#infotit{
+    font-weight: 700;
+}
+
+#titlez{
+    margin-top: 5vh;
+}
+
+#serverss{
+    margin: 2vh 0 2vh 0;
+    width: 28vw;
+    height: 24vh;
+}
+
+#colonnato1{
+    margin-left: 5vw;
+}
+
+h5{
+    margin-left: 8vw;
+}
+
+#colonnato2{
+    margin-right: 5vw;
+}
+
+
+
+#w345{
+    font-size: large;
+    padding: 0 15vw 0 15vw;
+    font-weight: 500;
+}
+
+#texto{
+    margin-top: 3vh;
+}
+
+#infotest{
+    font-size: large;
+    padding: 0 15vw 0 15vw;
+    font-weight: 500;
+}
+
+#products{
+    margin: 5vh 3vw 0 3vw;
+}
+
+/***** End Section *****/
+
+/***** Videosorveglianza css *****/
+
+#w123{
+    margin-top: 10vh;
+}
+
+#w1{
+    margin-top: 10vh;
+    padding-right: 12vw;
+}
+
+#w2{
+    width: 10rem;
+    height: 10rem;
+    margin-left: 8vw;   
+}
+
+#w3{
+    margin-top: 2vh;
+    padding-right: 30vw;
+}
+
+/***** End Videosorveglianza css *****/
 
 #mainheading{
     text-align: center;
